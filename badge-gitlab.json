@@ -2,5 +2,6 @@
     "schemaVersion":1,
     "label":"gitlab",
     "message":"main",
+    "color":"green",
     "cacheSeconds":1800
 }
