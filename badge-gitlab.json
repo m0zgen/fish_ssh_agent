@@ -3,5 +3,5 @@
     "label":"gitlab",
     "message":"main",
     "color":"green",
-    "cacheSeconds":1800
+    "cacheSeconds":1
 }
