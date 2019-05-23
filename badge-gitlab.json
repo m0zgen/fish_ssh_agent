@@ -2,5 +2,5 @@
     "schemaVersion":1,
     "label":"gitlab",
     "message":"main",
-    "cacheSeconds":1
+    "cacheSeconds":1800
 }

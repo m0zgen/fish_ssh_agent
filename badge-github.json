@@ -1,6 +1,6 @@
 {
     "schemaVersion":1,
-    "label":"git",
+    "label":"github",
     "message":"mirror",
-    "cacheSeconds":1
+    "cacheSeconds":1800
 }
