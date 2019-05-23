@@ -1,6 +1,6 @@
 # fish_ssh_agent
 
-![Custom badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fgitlab.com%2Fkyb%2Ffish_ssh_agent%2Fraw%2Ftemp-badge%2Fbadge-gitlab.json)
+![Custom badge](https://img.shields.io/endpoint.svg?cacheSeconds=1&logo=gitlab&label=gitlab&url=https%3A%2F%2Fgitlab.com%2Fkyb%2Ffish_ssh_agent%2Fraw%2Ftemp-badge%2Fbadge-gitlab.json)
 
 https://gitlab.com/kyb/fish_ssh_agent/raw/temp-badge/badge-gitlab.json
 
