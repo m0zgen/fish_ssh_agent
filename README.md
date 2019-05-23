@@ -1,6 +1,8 @@
 # fish_ssh_agent
 
-![Custom badge](https://img.shields.io/endpoint.svg?color=green&label=gitlab&logo=gitlab&logoColor=orange&style=popout&message=YYY&url=https%3A%2F%2Fgitlab.com%2Ftime)
+![Custom badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fgitlab.com%2Fkyb%2Ffish_ssh_agent%2Fraw%2Ftemp-badge%2Fbadge-gitlab.json)
+
+https://gitlab.com/kyb/fish_ssh_agent/raw/temp-badge/badge-gitlab.json
 
 Utility functions to start your ssh agent when using fish shell.
 You will only need to run `ssh-add` and type your password once,
