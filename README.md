@@ -4,9 +4,8 @@ Utility functions to start your ssh agent when using fish shell.
 You will only need to run `ssh-add` and type your password once,
 after the running ssh_agent should do the work for you.
 
-[![Custom badge](https://img.shields.io/endpoint.svg?logo=gitlab&label=gitlab&style=for-the-badge&url=https%3A%2F%2Fgitlab.com%2Fkyb%2Ffish_ssh_agent%2Fraw%2Ftemp-badge%2Fbadge-gitlab.json)](https://gitlab.com/kyb/fish_ssh_agent)
-[![Custom badge](https://img.shields.io/endpoint.svg?logo=github&style=for-the-badge&url=https%3A%2F%2Fgitlab.com%2Fkyb%2Ffish_ssh_agent%2Fraw%2Ftemp-badge%2Fbadge-github.json)](https://github.com/ivakyb/fish_ssh_agent)
-
+![GitLab](https://img.shields.io/badge/dynamic/json.svg?logo=gitlab&style=for-the-badge&label=gitlab&message=xxx&url=https://gitlab.com/kyb/fish_ssh_agent/raw/temp-badge/badge-gitlab.json&query=$.message)
+![GitHub](https://img.shields.io/badge/dynamic/json.svg?logo=GitHub&style=for-the-badge&label=GitHub&message=xxx&url=https://gitlab.com/kyb/fish_ssh_agent/raw/temp-badge/badge-github.json&query=$.message&color=9A9)
 
 ## Usage
 
