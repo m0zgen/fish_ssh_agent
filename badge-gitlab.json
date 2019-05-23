@@ -2,5 +2,6 @@
     "schemaVersion":1,
     "label":"gitlab",
     "message":"main",
+    "link":"https://gitlab.com/kyb/fish_ssh_agent"
     "cacheSeconds":1800
 }
