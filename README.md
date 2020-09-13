@@ -38,3 +38,6 @@ With option enabled keys used by ssh will be automatically added to ssh-agent. N
 ## Mirrors
 https://gitlab.com/kyb/fish_ssh_agent  
 https://github.com/ivakyb/fish_ssh_agent  
+
+## Additionals info
+https://gist.github.com/josh-padnick/c90183be3d0e1feb89afd7573505cab3
